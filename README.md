@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Let me introduce myself. My name is Thomas and I'm currently studying IT in Besançon.
+Let me introduce myself. My name is Thomas and I'm currently studying IT in Paris. I'm currently a student in M1 computer science specialty ANDROIDE at Sorbonne University
  
-- 🔭 I’m currently working on a machine learning program to classify birds songs (Python)
-- 😄 Currently developer for CIBEST LTD
+- 🔭 The project I'm most proud of is ML_Sound, a machine learning program to classify birds/bat songs (Python)
+- 😄 Also fan of embbeded development thanks to my internship at CIBEST LTD
 
-Check my <a href="https://thomascorcoral.com/">website</a> for more informations about me
+Check my <a href="https://www.linkedin.com/in/thomas-corcoral/">LinkedIn</a> for more informations about me
